@@ -3,7 +3,7 @@ Databases:
   # {uri} is a placeholder for the session name (eg. ES2004c).
   # you might need to update this line to fit your own setup.
 
-  DISPLACE: wav/{uri}.wav
+  DISPLACE: displace/{uri}/audio/{uri}.wav
 
 Protocols:
 
